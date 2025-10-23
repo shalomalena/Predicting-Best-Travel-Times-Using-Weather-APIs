@@ -57,6 +57,10 @@ Travelers want to visit cities during ideal weather conditions but lack data-dri
 - **Ideal Weather Criteria:** 65-80°F, <0.15" precipitation, <70% humidity
 - **Most Consistent:** San Diego (year-round pleasant weather)
 - **Best Value:** Phoenix (37 ideal days in November alone)
+<img width="655" height="315" alt="my screenshots 2025-10-23 at 11 21 15 AM" src="https://github.com/user-attachments/assets/d4a39a54-292d-44b0-abb0-f3e44a8a4818" />
+<img width="645" height="375" alt="my screenshots 2025-10-23 at 11 21 04 AM" src="https://github.com/user-attachments/assets/c48f662c-452b-4d89-be73-6e4155b4ea07" />
+<img width="648" height="371" alt="my screenshots 2025-10-23 at 11 20 52 AM" src="https://github.com/user-attachments/assets/e5915103-9bc6-4435-8a01-ecaca63fe4f1" />
+<img width="651" height="408" alt="my screenshots 2025-10-23 at 11 21 29 AM" src="https://github.com/user-attachments/assets/d9321927-b751-4eeb-9461-1c1d6d56b0b1" />
 
 ##  Technologies & Skills
 
