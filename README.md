@@ -1,4 +1,4 @@
-readme_content = """
+
 # Predicting Best Time to Travel: Weather-Based Analysis & ML Model
 
 ##  Project Summary
